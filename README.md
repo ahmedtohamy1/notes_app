@@ -1,3 +1,3 @@
 # noty
 
-A new Flutter project.
+Notes App with ISAR noSQL DB
